@@ -1,0 +1,122 @@
+[
+  {
+    "player_image": "https://i.ibb.co.com/mVmn7MvK/sakib.jpg",
+    "player_name": "Shakib Al Hasan",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "rating": 9.6,
+    "price": 150000,
+    "player_balling_style": "Spinner",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/YF5QjhRq/tamim.jpg",
+    "player_name": "Tamim Iqbal",
+    "player_country": "Bangladesh",
+    "player_role": "Batsman",
+    "rating": 8.9,
+    "player_balling_style": "N/A",
+    "player_batting_style": "left_hander",
+    "price": 120000
+  },
+  {
+    "player_image": "https://i.ibb.co.com/xSRBgVsn/mahamudullah.jpg",
+    "player_name": "Mahmudullah Riyad",
+    "player_country": "Bangladesh",
+    "player_role": "All-rounder",
+    "rating": 8.4,
+    "price": 110000,
+    "player_balling_style": "Spinner",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/K1mb1r1/mustafiz.jpg",
+    "player_name": "Mustafizur Rahman",
+    "player_country": "Bangladesh",
+    "player_role": "Bowler",
+    "rating": 9.1,
+    "price": 140000,
+    "player_balling_style": "Fast",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/bMMV58sv/litondas.jpg",
+    "player_name": "Liton Das",
+    "player_country": "Bangladesh",
+    "player_role": "Wicket-keeper",
+    "rating": 8.7,
+    "price": 115000,
+    "player_balling_style": "N/A",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/20RVWMKL/afridi.jpg",
+    "player_name": "Shahid Afridi",
+    "player_country": "Pakistan",
+    "player_role": "All-rounder",
+    "rating": 9.0,
+    "price": 160000,
+    "player_balling_style": "Fast",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/84gBm59R/rahmanullah.jpg",
+    "player_name": "Rahmanullah Gurbaz",
+    "player_country": "Afghanistan",
+    "player_role": "Wicket-keeper",
+    "rating": 8.8,
+    "price": 130000,
+    "player_balling_style": "Spinner",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/wrJt9WrV/russell.jpg",
+    "player_name": "Andre Russell",
+    "player_country": "West Indies",
+    "player_role": "All-rounder",
+    "rating": 9.7,
+    "price": 200000,
+    "player_balling_style": "Fast",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/Q7tS2gY2/poorand.jpg",
+    "player_name": "Nicholas Pooran",
+    "player_country": "West Indies",
+    "player_role": "Wicket-keeper",
+    "rating": 9.2,
+    "price": 180000,
+    "player_balling_style": "N/A",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/GvSfPvXz/malinga.jpg",
+    "player_name": "Lasith Malinga",
+    "player_country": "Sri Lanka",
+    "player_role": "Bowler",
+    "rating": 8.5,
+    "price": 125000,
+    "player_balling_style": "Fast",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/SwtwFKt3/zazai.jpg",
+    "player_name": "Hazratullah Zazai",
+    "player_country": "Afghanistan",
+    "player_role": "Batsman",
+    "rating": 8.3,
+    "price": 100000,
+    "player_balling_style": "N/A",
+    "player_batting_style": "left_hander"
+  },
+  {
+    "player_image": "https://i.ibb.co.com/LD0BZNmT/bravo.jpg",
+    "player_name": "Dwayne Bravo",
+    "player_country": "West Indies",
+    "player_role": "All-rounder",
+    "rating": 9.3,
+    "price": 170000,
+    "player_balling_style": "Spinner",
+    "player_batting_style": "left_hander"
+  }
+]
